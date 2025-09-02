@@ -446,7 +446,15 @@ html, body {
     margin-top: 15px;
 }
 
+.main-technique-header {
+    background-image: linear-gradient(#F8F8F8, #FFFFFF);
+}
+
 .main-brands-header {
+    background-image: linear-gradient(#F8F8F8, #FFFFFF);
+}
+
+.main-prices-header {
     background-image: linear-gradient(#F8F8F8, #FFFFFF);
 }
 
