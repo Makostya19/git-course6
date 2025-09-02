@@ -43,6 +43,10 @@
 }
 
 @media (1366px <= width) {
+    .main-title-button {
+        display: none;
+    }
+
     .header {
         display: none !important;
     }
@@ -420,6 +424,12 @@ html, body {
 .swiper {
   width: 100%;
   padding-bottom: 30px;
+}
+
+.main-title-button {
+    border: none;
+    background-color: #F8F8F8;
+    padding-bottom: 20px;
 }
 
 .main-readmore {
