@@ -320,9 +320,9 @@ html, body {
 }
 
 .main-content {
+    height: max-content;
     background-color: #F8F8F8;
     flex: 1;              /* занимает всё оставшееся место */
-    background: #fff;
     width: 100%;           /* растягивается на всю ширину экрана */
     max-width: 1365px;     /* ограничение максимальной ширины */
     margin: 0 auto;        /* центрирование по горизонтали */
